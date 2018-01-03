@@ -1,0 +1,2 @@
+# Fizzbuzz
+This is a simple counting game where players take turns saying numbers in sequence. Every time someone reaches a multiple of 3, they must say "Fizz", and, for multiples of 5, "Buzz". Numbers that are multiples of both are "Fizzbuzz". This simple game is challenging on its own, as one must remember which numbers are multiples of which other numbers. However, it can also be expanded by including extra words for extra prime numbers. 7 becomes "Bizz", 11 becomes "Fuzz", 13 "Wizz", 17 "Wuzz", etc.
